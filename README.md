@@ -111,6 +111,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [django-pyproject](https://github.com/Ceterai/django-pyproject) - Django package to store some or all of your settings in your pyproject.toml file.
 - [Poe the Poet](https://github.com/nat-n/poethepoet#define-tasks-in-your-pyprojecttoml) - A task runner that works well with Poetry.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
+- [poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automatically
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
 - [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
